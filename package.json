@@ -1,0 +1,19 @@
+{
+  "id": "gitlab-server",
+  "name": "GitLab Server",
+  "version": "1.0.0",
+  "description": "GitLab Server recipe for hosted installations.",
+  "main": "index.js",
+  "author": "Nick Morozov <neurodeep@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/NickMorozov/franz-recipe-gitlab-server",
+  "config": {
+    "serviceURL": null,
+    "hasTeamId": false,
+    "urlInputSuffix": false,
+    "hasCustomUrl": true,
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "message": null
+  }
+}
